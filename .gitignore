@@ -1,0 +1,5 @@
+mnist_data/
+ray_results*
+tensorboard*
+*.npz
+*.csv
